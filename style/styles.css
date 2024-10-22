@@ -1,0 +1,70 @@
+h1
+{
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+h2
+{
+    color: white;
+}
+.aboutMeText
+{
+    font-size: 32px;
+    color:white;
+}
+
+li
+{
+    font-size: 24px;
+    color:white;
+}
+
+.img-fluid {
+    min-width: 80%;
+    max-width: 100%;
+    height: auto;
+    border-radius: 6px;
+}
+
+.card-img-top {
+    width: 100%;
+    height: 28rem;
+    object-fit: cover;
+}
+
+
+
+.navbar-custom{
+    background-color: rgb(164, 186, 207);
+}
+.navbar
+{
+    margin-bottom: 6rem;
+
+}
+
+.textboxBackground
+{
+    background-color: rgba(0, 0, 0, 0.35);
+    border-radius: 6px;
+}
+
+#homepageBG 
+{
+    background-image:url("../assets/images/DowntownCity.jpg");
+    background-size: cover;
+}
+
+#interestsBG 
+{
+    background-image:url("../assets/images/QuiteSimple.jpg");
+    background-size: cover;
+}
+
+#accomplishmentsBG 
+{
+    background-image:url("../assets/images/Sunrise.jpg");
+    background-size: cover;
+}
+
